@@ -1,0 +1,47 @@
+#username{
+    font-size:35px;
+    color:palegreen;
+}
+
+h1{
+    color:blueviolet;
+    font-size:50px;
+}
+
+body{
+    background-color:aquamarine;
+}
+
+#login{
+    cursor:pointer;
+    height:30px;
+    width:100px;
+    background-color:blue;
+    border-color:yellow;
+    color:rgb(0, 255, 0);
+}
+
+hr{
+    width:400px;
+    background-color:black;
+}
+
+.welcome , .welcome label, #Enter_Roomname{
+    font-size:70px;
+    color:rgb(44, 35, 35);
+}
+
+#Enter_Roomname{
+    font-size:40px;
+}
+
+#rhr{
+    width:400px;
+    background-color:black;
+}
+
+#allRooms{
+    height:500px;
+    width:700px;
+    border:2px solid red;
+}
